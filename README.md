@@ -14,7 +14,7 @@ A modern social media starter template for building scalable social networking a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dustinwloring1988/social-starter.git
+   git clone https://github.com/bolt-starter-templates/social-starter.git
    cd social-starter
    ```
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Dustin Loring**
-- GitHub: [@dustinwloring1988](https://github.com/dustinwloring1988)
+- GitHub: [@bolt-starter-templates](https://github.com/bolt-starter-templates)
 
 ## ⭐ Show your support
 
